@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # state_mangment
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-provider-example
+This is a Flutter sample app that shows a state management approach using the Provider package.
+>>>>>>> a903f2b447eb5ed5e276533455e54a1b6befcbf6
